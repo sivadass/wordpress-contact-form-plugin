@@ -2,13 +2,11 @@
 
 Simple non-bloated WordPress Contact Form Plugin
 
-### Preview
+### Preview & Demo
 
 ![wordpress-contact-form-plugin](https://res.cloudinary.com/sivadass/image/upload/v1523713333/screen-shots/wordpress-contact-form-plugin.png)
 
-### Live Demo
-
-[https://www.sivadass.in/contact/](https://www.sivadass.in/contact/)
+[Live Demo](https://bit.ly/2GWZBg0)
 
 ### Installation
 
